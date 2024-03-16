@@ -7,3 +7,7 @@ Death Note
 When they cry 
 Hunters Di
 Helsing 
+## Дополнительный текст 
+Bakuman
+parasit
+Jojo blizzar advanture
